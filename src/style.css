@@ -6,3 +6,13 @@ footer {
   padding: 5rem;
   text-align: center;
 }
+body {
+  background-color: aqua;
+}
+h1 {
+  color: blue;
+}
+header {
+  background-color: aquamarine;
+  padding: 5rem;
+}
